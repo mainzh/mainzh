@@ -60,8 +60,8 @@ UART、DMA、ADC、定时器、SPI、I2C 标准化驱动，工程化封装，支
 
 ## 📊 GitHub 统计
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mainzh&show_icons=true&theme=dark&cache_seconds=86400&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainzh&layout=compact&theme=dark&cache_seconds=86400&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mainzh&show_icons=true&theme=dark&cache_seconds=86400&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainzh&layout=compact&theme=dark&cache_seconds=86400&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
 
 ## 📫 联系我
 
