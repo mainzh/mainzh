@@ -1,10 +1,5 @@
 
-
-# GitHub Profile README 完整成品（嵌入式/STM32开发者）
-
-说明：已修复所有「link fetch error」，图标链接均补全参数、验证可用，项目链接预留占位符，替换成自己的即可直接使用。
-
-## 你好，我是 XXX 👋
+# 你好，我是 mainzh 👋
 
 嵌入式 / 单片机 / 电机控制开发者
 
@@ -68,20 +63,14 @@ UART、DMA、ADC、定时器、SPI、I2C 标准化驱动，工程化封装，支
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mainzh&show_icons=true&theme=dark&cache_seconds=86400&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainzh&layout=compact&theme=dark&cache_seconds=86400&hide_border=true)
 
-提示：替换「你的GitHub用户名」后，统计卡片会自动加载你的数据，cache_seconds参数可避免频繁请求报错。
-
 ## 📫 联系我
 
-- GitHub：@你的GitHub用户名
+- GitHub：@mainzh
 
-- 邮箱：your@email.com（替换成自己的邮箱）
+- 邮箱：your@email.com
 
 ## 🌱 正在学习
 
 - 电机参数辨识（转动惯量、相间电阻/电感测量）
 
 - 高速采样与滤波算法优化
-
-- Git 子模块、Monorepo 嵌入式工程化实践
-
-> （注：文档部分内容可能由 AI 生成）
