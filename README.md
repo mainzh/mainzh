@@ -65,8 +65,8 @@ UART、DMA、ADC、定时器、SPI、I2C 标准化驱动，工程化封装，支
 
 ## 📊 GitHub 统计
 
-![mainzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainzh&show_icons=true&theme=dark&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainzh&layout=compact&theme=dark&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mainzh&show_icons=true&theme=dark&cache_seconds=86400&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainzh&layout=compact&theme=dark&cache_seconds=86400&hide_border=true)
 
 提示：替换「你的GitHub用户名」后，统计卡片会自动加载你的数据，cache_seconds参数可避免频繁请求报错。
 
