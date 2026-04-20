@@ -1,5 +1,9 @@
-Firmware
-Hardware
-Mechanical
-Software
-Vlog
+Firmware 固件：用 Keil / CubeMX 写的、编译成 hex/bin 。离硬件最近、必须烧进芯片、开机就跑的代码
+
+Hardware 硬件：电子元器件、原理图、PCB电路板
+
+Mechanical 机械：structure (Str) 结构、design 设计、assembly 装配、drawing 图纸、engineer 工程
+
+Software 软件：用 Python/Java/C# 写上位机、APP、网页。跑在系统 / 应用层、可独立更新、不直接操作寄存器的逻辑
+
+Vlog 视频博客：vlogger 视频生活记录者
